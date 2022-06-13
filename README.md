@@ -33,9 +33,11 @@ Key takeaway :
     -Bermuda 
     -Switzerland
     
- 4) Average GDP per capita is 21k USD, the median is 13k USD.The standard deviation is 21k USD, suggesting substantial spread. 
+4) Average GDP per capita is 21k USD, the median is 13k USD.The standard deviation is 21k USD, suggesting substantial spread. 
    
- 5) There are two countries with less than 1k USD of GDP per capita (Burundi and the Central African Republic)
+5) There are two countries with less than 1k USD of GDP per capita (Burundi and the Central African Republic)
     
+6) The linear regression with life expectancy as the y variable, and GDP per capita as the x variable shows a positive slope, but the        scatterplot implies that there are strong nonlinearities in the association that the linear regression doesn’t capture. In particular, the  slope appears a lot steeper at lower levels of GDP per capita and a lot flatter at higher levels. 
 
+In contrast with the regression without taking logs, the scatterplot with log GDP per capita suggests a remarkably linear pattern. For most of the range of log GDP per capita, the linear fit appears to be a good approximation of the conditional expectation.
 
