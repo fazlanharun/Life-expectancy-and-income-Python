@@ -54,3 +54,5 @@ The countries with the longest lives given their income include Morocco (7 years
 7 countries with very high levels of GDP per capita (log gdp more than or equal to 4) have lower life expectancy than predicted by the linear regression. These countries are a mix of Bermuda, US , oil-rich countries (Brunei, United Arab Emirates, Qatar), and well-off small Western European countries (Ireland, Luxembourg).
 
 Other interesting results include that lives are more than 5 years shorter than expected in the USA, 2 years longer than expected in China, and 6 years longer than expected in Japan. Looking at the rich countries, lives are 3 years shorter than expected in Qatar and 3 year shorter than expected in Luxembourg.
+
+![image](https://user-images.githubusercontent.com/90559723/174390722-ee8f788e-bf47-4f2b-ba18-caf86ea6aff8.png)
